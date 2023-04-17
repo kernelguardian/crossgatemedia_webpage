@@ -1,0 +1,56 @@
+.bg{
+    background: radial-gradient(39.92% 39.92% at 1.03% 2.95%, #616DC2 0%, #96A5D5 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */, linear-gradient(246.16deg, #3305C7 5.88%, #C4B5E8 63.08%, #FAE8E7 94.45%);
+    background-blend-mode: darken, normal;
+}
+
+.textCenter{
+
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 160px;
+line-height: 194px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 13px #5833D1;
+}
+
+.textCenterContent{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+
+.footerText{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #293868;
+
+}
