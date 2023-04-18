@@ -3,6 +3,9 @@ import { Footer } from "./Footer";
 import Main from "./Main";
 import WhatsappButton from "./WhatsappButton";
 import Socials from "./Socials";
+import ReactGA from "react-ga";
+
+
 
 function App() {
   return (
