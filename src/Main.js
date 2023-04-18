@@ -8,7 +8,7 @@ export default function Main() {
       </h1>
       <h2 className="textCenterContent py-4 lg:text-4xl text-2xl font-Inter">
         We are currently working on creating something fantastic. Subscribe to
-        be notified
+        be notified.
       </h2>
     </div>
   );
