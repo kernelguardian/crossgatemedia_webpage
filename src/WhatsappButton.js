@@ -10,7 +10,7 @@ export default function WhatsappButton() {
         rel="noopener noreferrer"
         target="_blank"
       >
-        <button className="rounded-full bg-buttonBG w-96 h-12 hover:bg-sky-700 border-4 border-indigo-500/100">
+        <button className="rounded-full bg-buttonBG w-96 h-12 hover:bg-sky-700 active:border-2 border-white">
           <span className="inline-flex items-baseline text-white">
             <img
               src={Whatsappicon}
