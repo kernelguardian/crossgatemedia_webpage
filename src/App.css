@@ -4,21 +4,28 @@
 }
 
 .textCenter{
-
-
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 800;
 font-size: 160px;
 line-height: 194px;
 /* identical to box height */
-
-
 color: #FFFFFF;
 
 text-shadow: 0px 4px 13px #5833D1;
 }
+
+.textCentersm{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    
+    line-height: 194px;
+    /* identical to box height */
+    color: #FFFFFF;
+    
+    text-shadow: 0px 4px 13px #5833D1;
+    }
 
 .textCenterContent{
 
