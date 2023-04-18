@@ -11,9 +11,11 @@ function App() {
 
       <div className="flex flex-col">
         <Main></Main>
+
         <WhatsappButton></WhatsappButton>
 
         <Socials></Socials>
+
         <Footer></Footer>
       </div>
     </div>
