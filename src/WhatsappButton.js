@@ -1,6 +1,6 @@
 import React from "react";
 import "./WhatsappButton.css";
-import Whatsappicon from "/workspaces/crossgatemedia_webpage/src/assets/Whatsappicon.svg";
+import Whatsappicon from "./assets/Whatsappicon.svg";
 
 export default function WhatsappButton() {
   return (
